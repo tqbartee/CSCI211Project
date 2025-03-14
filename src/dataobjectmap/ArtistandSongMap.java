@@ -11,7 +11,7 @@ public class ArtistandSongMap extends GenericDataReaderIntoMap {
         ArtistandSongMap objLookup = new ArtistandSongMap();
         objLookup.keyValueLookup();
     }
-    //pushing to main
+    //pushing to mai
 
     public static void main(String[] args) {
         test();
